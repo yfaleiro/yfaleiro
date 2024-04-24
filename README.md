@@ -1,6 +1,6 @@
 ### Olá, meu nome é Yuri Faleiro 🙋‍♂️
 
-- Atualmente trabalho com finanças corporativas na CIPASA Urbanismo;
+- Atualmente trabalho com Data Analytics na CIPASA Urbanismo;
   
 - Meus estudos atuais são focados em Machine Learning e Dados;
   
@@ -11,8 +11,6 @@
   - VBA
   
 - Sou formado em Economia e pós graduado em Finanças e Gestão Estratégica de Negócios, ambas pela Univerdidade Federal de Goiás;
-
-- Meu interesse atual é migrar profissionalmente para área de dados.
 
 Contatos:
 
