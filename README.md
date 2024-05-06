@@ -4,10 +4,12 @@
   
 - Meus estudos atuais são focados em Machine Learning e Dados;
   
-- Linguagens que domino:
-  - Python (sklearn, pandas, numpy, seaborn e outras bibliotecas voltadas para tratamento de dados e construção de modelos preditivos e classificatórios)
+- Linguagens e ferramentas que domino:
+  - Python
+  - PySpark
   - SQL
   - DAX
+  - M
   - VBA
   
 - Sou formado em Economia e pós graduado em Finanças e Gestão Estratégica de Negócios, ambas pela Univerdidade Federal de Goiás;
