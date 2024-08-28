@@ -1,6 +1,6 @@
 ### Olá, meu nome é Yuri Faleiro 🙋‍♂️
 
-- Atualmente trabalho com Data Analytics na CIPASA Urbanismo;
+- Atualmente trabalho com Data Analytics na Trocafone;
   
 - Meus estudos atuais são focados em Machine Learning e Dados;
   
